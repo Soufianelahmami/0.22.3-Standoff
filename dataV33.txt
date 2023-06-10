@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4QmDxf.jpg"},
+  {"desc2":"Standoff 0.22.3 introduces a host of compelling features that enhance the user experience and push the boundaries of virtual environments","photo2":"https://iili.io/H4QmQNs.jpg"},
+  {"desc3":"One of the standout features is the addition of haptic feedback, which enables users to experience a sense of touch within the virtual world","photo3":"https://iili.io/H4QmbV4.webp"},
+  {"desc4":" Leveraging advanced haptic devices, Standoff creates a more immersive environment by allowing users to feel textures, impacts, and even the physical presence of other avatars.","photo4":"https://iili.io/H4QmLRn.jpg"},
+  {"desc5":"Another noteworthy addition in Standoff 0.22.3 is the enhanced graphics rendering. The developers have implemented cutting-edge rendering techniques","photo5":"https://iili.io/H4QmZDG.jpg"},
+  {"descd":" leveraging real-time ray tracing and advanced lighting algorithms. This results in stunning visual fidelity","photod":"https://iili.io/H4Qmmil.jpg"}
    ]
  
 }
